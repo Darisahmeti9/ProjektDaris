@@ -36,7 +36,7 @@ nav ul li a:hover {
      position: absolute;
      z-index: 1;
      color: black;
-     margin-left: 250px;
+     margin-left: 450px;
      padding: 10%;
      
 }
@@ -52,4 +52,25 @@ img{
  width: 300px;
  height: 300px;
 
+}
+.fotografit{
+    display: flex;
+    justify-content: space-around;
+}
+
+.reali{
+    border: 2px solid black;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 9px;
+}
+.fototP2{
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+.cart{
+    width: 400px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
